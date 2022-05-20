@@ -5,6 +5,8 @@
   Welcome to Pamela Gerber's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+    <div style="display: inline_block "><br>
+<img align="right" alt="Pam-pic" height="150em" rightmargin="50em" src="https://i.picasion.com/pic92/de1bdcff962071c20eacc9655518a9e9.gif"> 
 
 <p align="center">
   <a href="https://github.com/Pamgerber/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&color=F71DDC&center=true&vCenter=true&width=380&height=25&lines=Always+learning+new+things+;Pronouns%3A+she%2Fher"></a>
@@ -20,8 +22,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pamgerber&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pamgerber&theme=monokai-metallian&hide_border=true"/>
 </div>
-       <div style="display: inline_block "><br>
-<img align="right" alt="Pam-pic" height="150em" rightmargin="50em" src="https://i.picasion.com/pic92/de1bdcff962071c20eacc9655518a9e9.gif"> 
        
 ## Languages 📝
        
