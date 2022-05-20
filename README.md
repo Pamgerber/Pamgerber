@@ -14,19 +14,15 @@
   <a href="https://instagram.com/pamelabgerber" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pamela-gerber" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </p>   
+     <div style="display: inline_block "><br>
+<img align="right" alt="Pam-pic" height="150em" style="border-radius:50px" rightmargin="50em" src="https://i.picasion.com/pic92/de1bdcff962071c20eacc9655518a9e9.gif"> 
     
-<img align="right" alt="Pam-pic" height="150" style="border-radius:50px" src="https://i.picasion.com/pic92/de1bdcff962071c20eacc9655518a9e9.gif"> 
-    
-
-##
     
 ## Contribution Graph 📊
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pamgerber&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pamgerber&theme=monokai-metallian&hide_border=true"/>
 </div>
-     <div style="display: inline_block "><br>
-    <img align="right" height="100em" alt="vs" rightmargin="50em" src="https://c.tenor.com/dnbRAP0XZX0AAAAC/yuru-camp-kagamihara.gif"> 
        
 ## Languages 📝
        
