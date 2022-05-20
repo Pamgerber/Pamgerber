@@ -13,11 +13,15 @@
   </div> 
 
   <div>
+    <p align="center">
   <a href="https://www.instagram.com/pamelabgerber/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
-  <a href="https://www.linkedin.com/in/pamela-gerber" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/pamela-gerber">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
     </p>  
+  </div>
   
   <p align="right">
   <img src="https://i.picasion.com/pic92/de1bdcff962071c20eacc9655518a9e9.gif" height="150">
