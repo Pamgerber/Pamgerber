@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Pamgerber/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&color=F713DB&lines=Always+learning+new+things;Pronouns%3A+she%2Fher)](https://git.io/typing-svg"></a>
+  <a href="https://github.com/Pamgerber/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&color=F713DB&lines=Always+learning+new+things;Pronouns%3A+she%2Fher"></a>
 </p>
 
   <p align="center">
