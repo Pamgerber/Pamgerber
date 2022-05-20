@@ -15,7 +15,7 @@
   <div>
     <p align="center">
   <a href="https://www.instagram.com/pamelabgerber/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+    <img width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="https://www.linkedin.com/in/pamela-gerber">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
