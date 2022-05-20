@@ -9,6 +9,8 @@
 <p align="center">
   <a href="https://github.com/Pamgerber/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&color=F71DDC&center=true&vCenter=true&width=380&height=25&lines=Always+learning+new+things+;Pronouns%3A+she%2Fher"></a>
 </p>
+    
+    <img align="right" alt="Pam-pic" width="250px" style="margin-top:-20px" src="https://i.picasion.com/pic92/de1bdcff962071c20eacc9655518a9e9.gif"> 
 
   <p align="center">
   <a href="https://instagram.com/pamelabgerber" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -17,8 +19,6 @@
     
 <img align="right" alt="Pam-pic" width="250px" style="margin-top:-20px" src="https://i.picasion.com/pic92/de1bdcff962071c20eacc9655518a9e9.gif"> 
     
-    </br>
-</br>
 
 ##
     
