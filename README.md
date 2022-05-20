@@ -5,12 +5,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
     </div>
+    <p align="right">
+  <img src="https://i.picasion.com/pic92/de1bdcff962071c20eacc9655518a9e9.gif" height="150">
+</p>
   
 <div>
 <p align="center">
   <a href="https://github.com/Pamgerber/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&color=F71DDC&center=true&vCenter=true&width=380&height=25&lines=Always+learning+new+things+;Pronouns%3A+she%2Fher"></a>
 </p>
-  </div>
+  </div> 
 
   <div>
   <p align="center">
