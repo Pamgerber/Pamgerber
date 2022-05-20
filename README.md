@@ -19,8 +19,7 @@
     </p>  
     
 
-    <img align="right">
-  <img src=""https://i.picasion.com/pic92/de1bdcff962071c20eacc9655518a9e9.gif" width="350">
+    <img align="right" img src=""https://i.picasion.com/pic92/de1bdcff962071c20eacc9655518a9e9.gif" width="350">
 </p>
   
   ##
