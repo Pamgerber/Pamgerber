@@ -1,7 +1,5 @@
 <div>
   <a href="https://github.com/Pamgerber">
-     <div style="display: inline_block "><br>
-<img align="right" alt="Pam-pic" height="150em" rightmargin="50em" src="https://i.picasion.com/pic92/de1bdcff962071c20eacc9655518a9e9.gif"> 
 <h3 align="center">
   Welcome to Pamela Gerber's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -16,7 +14,7 @@
   <a href="https://www.linkedin.com/in/pamela-gerber" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </p>  
      <div style="display: inline_block "><br>
-<img align="right" alt="Pam-pic" height="150em" rightmargin="50em" src="https://i.picasion.com/pic92/de1bdcff962071c20eacc9655518a9e9.gif"> 
+<img align="right" width="250px" style="margin-top:-20px" src="https://i.picasion.com/pic92/de1bdcff962071c20eacc9655518a9e9.gif"> 
        
 ## Contribution Graph 📊
 <div align="center">
